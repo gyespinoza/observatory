@@ -14,7 +14,7 @@
                 <!--Column-->
                 <article class="column team-member col-lg-3 col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image"><a href="mailto:mail@email.com"><img src="images/resource/team-image-1.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="mailto:mail@email.com"><img src="#" alt=""></a></figure>
                         <div class="member-info">
                             <h3>Onnonto Jolil</h3>
                             <div class="designation">Senior Worker</div>
@@ -34,7 +34,7 @@
                 <!--Column-->
                 <article class="column team-member col-lg-3 col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image"><a href="mailto:mail@email.com"><img src="images/resource/team-image-2.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="mailto:mail@email.com"><img src="#" alt=""></a></figure>
                         <div class="member-info">
                             <h3>Jannatul Ferdaous</h3>
                             <div class="designation">Senior Worker</div>
@@ -54,7 +54,7 @@
                 <!--Column-->
                 <article class="column team-member col-lg-3 col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image"><a href="mailto:mail@email.com"><img src="images/resource/team-image-3.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="mailto:mail@email.com"><img src="#" alt=""></a></figure>
                         <div class="member-info">
                             <h3>Henna</h3>
                             <div class="designation">Senior Worker</div>
@@ -74,7 +74,7 @@
                 <!--Column-->
                 <article class="column team-member col-lg-3 col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                     <div class="inner-box">
-                        <figure class="image"><a href="mailto:mail@email.com"><img src="images/resource/team-image-4.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="mailto:mail@email.com"><img src="#" alt=""></a></figure>
                         <div class="member-info">
                             <h3>Muhibbur Rashid</h3>
                             <div class="designation">Senior Worker</div>
