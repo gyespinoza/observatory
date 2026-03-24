@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "naumovs.color-highlight",
+    "christian-kohler.path-intellisense"
+  ]
+}
